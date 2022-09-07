@@ -1,0 +1,21 @@
+.body {
+
+}
+.texthead {
+    color: blue;
+    font-size: 30;
+    font-weight: 600;
+    text-align: center;
+}
+
+.chars {
+    align-items: center;
+    top: 50%;
+}
+
+.chartxt {
+    color: purple;
+    font-size: 24;
+    font-weight: 600;
+    text-align: center;
+}
